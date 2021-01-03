@@ -1,6 +1,6 @@
 ### Hi there, I'm Masab [MasabAli][website] 👋
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://www.masabali.me/)
+[![Website](https://img.shields.io/website?label=masabali.me&style=for-the-badge&url=https%3A%2F%2Fmasabali.me)](https://www.masabali.me/)
 
 ## I'm a Speaker, Developer, and Teacher!!
 
