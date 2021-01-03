@@ -11,3 +11,12 @@
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [Linkedin](http://www.linkedin.com/in/masab-ali-860697179)
 - 📝[Resume](https://www.masabali.me/Resume.pdf)
+<summary>📈 My GitHub Stats</summary>
+22
+​
+23
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Masab Alishow_icons=true&theme=gotham" alt="abhisheknaiidu" />
+24
+​
+25
+</details>
