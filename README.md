@@ -4,7 +4,7 @@
 ### My GitHub Visitors
 ![](https://visitor-badge.glitch.me/badge?page_id=MasabAli)
 
-## I'm a Speaker, Developer and Teacher!!
+## I'm a Speaker, Developer and a Teacher!!
 - 🌐 I'm an Aws Educate Cloud Ambassador
 - 🌐 I'm currently managing Aws Community Pakistan & Aws User-group Lahore
 - 🌱 I’m currently learning everything 🤣
