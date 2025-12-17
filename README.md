@@ -5,14 +5,12 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=MasabAli)
 
 ## I'm a Speaker, Developer and a Teacher!!
-- 🌐 I'm an Aws Educate Cloud Ambassador
-- 🌐 I'm currently managing Aws Community Pakistan & Aws User-group Lahore
+- 🌐 I'm an Mern Stack Developer
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers
-- 🥅 2023 Goals: Contribute more to Open Source projects
 - ⚡ **I love to speak publically**
 - ⚡ Fun fact: I love to create memes🤣
-- 💬 Ask me about anything, I am happy to help;
+- 💬 Ask me about anything, I am happy to help.
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/MasabAli)
 - 📫 Reach me via: [Email](mailto:masabali143@gmail.com)
 - 📫 Reach me via [Linkedin](http://www.linkedin.com/in/masab-ali-860697179)
