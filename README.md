@@ -1,6 +1,4 @@
 ### Hi there,
-### My GitHub Visitors
-![](https://visitor-badge.glitch.me/badge?page_id=MasabAli)
 
 ## I'm a Speaker, Developer and a Teacher!!
 - 🌐 I'm an Mern Stack Developer
