@@ -1,6 +1,4 @@
-### Hi there, I'm Masab [MasabAli][website] 👋
-
-[![Website](https://img.shields.io/website?label=masabali.me&style=for-the-badge&url=https%3A%2F%2Fmasabali)](www.masabali.github.io/)
+### Hi there,
 ### My GitHub Visitors
 ![](https://visitor-badge.glitch.me/badge?page_id=MasabAli)
 
